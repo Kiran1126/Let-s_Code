@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header-logo{
+    color: black;
+    font-size: 37px;
+    font-family: Zen Tokyo Zoo;
+    top: 20px;
+    cursor: pointer;
+}
+#nav-icons ul li span{
+    text-decoration: none;
+    list-style-type: none;
+}
